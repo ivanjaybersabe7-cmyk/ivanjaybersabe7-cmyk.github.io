@@ -42,7 +42,7 @@ h1{
   height: 95vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  bottom: -85%;
+  bottom: -80%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
@@ -61,7 +61,7 @@ h1{
   height: 95vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  bottom: -141%;
+  bottom: -131%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
@@ -80,7 +80,7 @@ h1{
   height: 95vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  bottom: -200%;
+  bottom: -182%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
@@ -99,7 +99,7 @@ h1{
   height: 95vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  bottom: -260%;
+  bottom: -233%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
@@ -117,7 +117,7 @@ h1{
   width: 70vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 375%;
+  top: 290%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
