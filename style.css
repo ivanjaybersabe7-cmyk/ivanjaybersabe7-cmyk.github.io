@@ -23,7 +23,7 @@ h1{
   width: 70vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 80%;
+  top: 50%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
@@ -42,7 +42,7 @@ h1{
   height: 95vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  bottom: -80%;
+  bottom: -50%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
@@ -61,7 +61,7 @@ h1{
   height: 95vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  bottom: -131%;
+  bottom: -101%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
@@ -80,7 +80,7 @@ h1{
   height: 95vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  bottom: -182%;
+  bottom: -152%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
@@ -99,7 +99,7 @@ h1{
   height: 95vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  bottom: -233%;
+  bottom: -203%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
@@ -117,7 +117,7 @@ h1{
   width: 70vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 340%;
+  top: 310%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
@@ -129,6 +129,7 @@ h1{
   width: 100%;
   display: flex;
 }
+
 
 @keyframes slide{
   0%{
