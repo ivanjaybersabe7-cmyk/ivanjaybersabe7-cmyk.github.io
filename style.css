@@ -16,7 +16,7 @@ h1{
   color: white;
   font-weight: bold;
   font-family: cursive;
-  font-size: 70px;
+  font-size: 45px;
 }
 
 .container{
@@ -42,7 +42,7 @@ h1{
   height: 95vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  bottom: -50%;
+  bottom: -55%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
@@ -61,7 +61,7 @@ h1{
   height: 95vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  bottom: -101%;
+  bottom: -110%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
@@ -80,7 +80,7 @@ h1{
   height: 95vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  bottom: -152%;
+  bottom: -167%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
@@ -99,7 +99,7 @@ h1{
   height: 95vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  bottom: -203%;
+  bottom: -223%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
@@ -117,7 +117,7 @@ h1{
   width: 70vmin;
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 310%;
+  top: 340%;
   left: 50%;
   overflow: hidden;
   border: 15px solid white;
